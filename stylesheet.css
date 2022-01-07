@@ -1,0 +1,31 @@
+.title {
+    font-size: 35px;
+    color:rgb(46, 61, 5);
+    text-align: center;
+    padding-top: 50px;
+}
+p{
+    font-size: 20px;
+    padding-bottom: 25px;
+    color:rgb(92, 92, 0);
+    text-align: center;
+}
+li{
+    padding-bottom:15px;
+    color:rgb(56, 63, 71)
+    
+    
+}
+li{
+    list-style: none;
+    text-align: center;
+}
+.top-wrapper{
+    height:800px;
+    background-image: url("https://i.pinimg.com/originals/73/ba/2a/73ba2a4e31b416890a995ec003d10516.jpg");
+    background-size: cover;
+    
+}
+.container{
+    padding-top: 70px;
+}
